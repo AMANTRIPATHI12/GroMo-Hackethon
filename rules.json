@@ -1,0 +1,338 @@
+[
+  {
+    "age": "18–25", "location": "Delhi", "pastPurchase": "None",
+    "suggest": "Savings Account",
+    "pitch": "Start your financial journey with a simple savings account."
+  },
+  {
+    "age": "18–25", "location": "Delhi", "pastPurchase": "Life Insurance",
+    "suggest": "Health Insurance",
+    "pitch": "Complement your life insurance with health coverage."
+  },
+  {
+    "age": "18–25", "location": "Delhi", "pastPurchase": "Personal Loan",
+    "suggest": "Savings Account",
+    "pitch": "Secure your finances by building savings."
+  },
+  {
+    "age": "18–25", "location": "Delhi", "pastPurchase": "Health Insurance",
+    "suggest": "Term Life Insurance",
+    "pitch": "Protect your loved ones with affordable term life insurance."
+  },
+  
+  {
+    "age": "18–25", "location": "Bihar", "pastPurchase": "None",
+    "suggest": "Savings Account",
+    "pitch": "Begin saving early to build financial stability."
+  },
+  {
+    "age": "18–25", "location": "Bihar", "pastPurchase": "Life Insurance",
+    "suggest": "Personal Loan",
+    "pitch": "Explore personal loans to invest in your dreams."
+  },
+  {
+    "age": "18–25", "location": "Bihar", "pastPurchase": "Personal Loan",
+    "suggest": "Savings Account",
+    "pitch": "Build savings to manage your repayments comfortably."
+  },
+  {
+    "age": "18–25", "location": "Bihar", "pastPurchase": "Health Insurance",
+    "suggest": "Term Life Insurance",
+    "pitch": "Get life insurance for long-term protection."
+  },
+
+  {
+    "age": "18–25", "location": "Maharashtra", "pastPurchase": "None",
+    "suggest": "Savings Account",
+    "pitch": "Start building your savings for a secure future."
+  },
+  {
+    "age": "18–25", "location": "Maharashtra", "pastPurchase": "Life Insurance",
+    "suggest": "Health Insurance",
+    "pitch": "Pair your life insurance with health coverage."
+  },
+  {
+    "age": "18–25", "location": "Maharashtra", "pastPurchase": "Personal Loan",
+    "suggest": "Savings Account",
+    "pitch": "Savings help you manage your loans better."
+  },
+  {
+    "age": "18–25", "location": "Maharashtra", "pastPurchase": "Health Insurance",
+    "suggest": "Term Life Insurance",
+    "pitch": "Secure your family's future with term life insurance."
+  },
+
+  {
+    "age": "18–25", "location": "Others", "pastPurchase": "None",
+    "suggest": "Savings Account",
+    "pitch": "Start saving early to achieve your goals."
+  },
+  {
+    "age": "18–25", "location": "Others", "pastPurchase": "Life Insurance",
+    "suggest": "Personal Loan",
+    "pitch": "Personal loans can help grow your aspirations."
+  },
+  {
+    "age": "18–25", "location": "Others", "pastPurchase": "Personal Loan",
+    "suggest": "Savings Account",
+    "pitch": "Savings are key to financial stability."
+  },
+  {
+    "age": "18–25", "location": "Others", "pastPurchase": "Health Insurance",
+    "suggest": "Term Life Insurance",
+    "pitch": "Protect your family with affordable life cover."
+  },
+
+
+  {
+    "age": "26–35", "location": "Delhi", "pastPurchase": "None",
+    "suggest": "Term Life Insurance",
+    "pitch": "Protect your family and save taxes with term life insurance."
+  },
+  {
+    "age": "26–35", "location": "Delhi", "pastPurchase": "Life Insurance",
+    "suggest": "Health Insurance",
+    "pitch": "Complement your life insurance with health protection."
+  },
+  {
+    "age": "26–35", "location": "Delhi", "pastPurchase": "Personal Loan",
+    "suggest": "Savings Account",
+    "pitch": "Build your savings to manage loans effectively."
+  },
+  {
+    "age": "26–35", "location": "Delhi", "pastPurchase": "Health Insurance",
+    "suggest": "Personal Loan",
+    "pitch": "Use personal loans to manage unexpected expenses."
+  },
+
+  {
+    "age": "26–35", "location": "Bihar", "pastPurchase": "None",
+    "suggest": "Term Life Insurance",
+    "pitch": "Secure your family’s future with life insurance."
+  },
+  {
+    "age": "26–35", "location": "Bihar", "pastPurchase": "Life Insurance",
+    "suggest": "Personal Loan",
+    "pitch": "Personal loans can help fund your goals."
+  },
+  {
+    "age": "26–35", "location": "Bihar", "pastPurchase": "Personal Loan",
+    "suggest": "Health Insurance",
+    "pitch": "Health insurance covers medical emergencies."
+  },
+  {
+    "age": "26–35", "location": "Bihar", "pastPurchase": "Health Insurance",
+    "suggest": "Savings Account",
+    "pitch": "Savings help manage future expenses."
+  },
+
+  {
+    "age": "26–35", "location": "Maharashtra", "pastPurchase": "None",
+    "suggest": "Term Life Insurance",
+    "pitch": "Protect your loved ones and save taxes."
+  },
+  {
+    "age": "26–35", "location": "Maharashtra", "pastPurchase": "Life Insurance",
+    "suggest": "Health Insurance",
+    "pitch": "Add health insurance to complete your protection."
+  },
+  {
+    "age": "26–35", "location": "Maharashtra", "pastPurchase": "Personal Loan",
+    "suggest": "Savings Account",
+    "pitch": "Build emergency savings for peace of mind."
+  },
+  {
+    "age": "26–35", "location": "Maharashtra", "pastPurchase": "Health Insurance",
+    "suggest": "Personal Loan",
+    "pitch": "Loans can help with large expenses or investments."
+  },
+
+  {
+    "age": "26–35", "location": "Others", "pastPurchase": "None",
+    "suggest": "Term Life Insurance",
+    "pitch": "Protect your family’s future with life cover."
+  },
+  {
+    "age": "26–35", "location": "Others", "pastPurchase": "Life Insurance",
+    "suggest": "Personal Loan",
+    "pitch": "Use loans to grow your financial opportunities."
+  },
+  {
+    "age": "26–35", "location": "Others", "pastPurchase": "Personal Loan",
+    "suggest": "Health Insurance",
+    "pitch": "Protect your health to avoid financial shocks."
+  },
+  {
+    "age": "26–35", "location": "Others", "pastPurchase": "Health Insurance",
+    "suggest": "Savings Account",
+    "pitch": "Savings build financial strength for future."
+  },
+
+  {
+    "age": "36–50", "location": "Delhi", "pastPurchase": "None",
+    "suggest": "Health Insurance",
+    "pitch": "Medical expenses rise with age — get health insurance."
+  },
+  {
+    "age": "36–50", "location": "Delhi", "pastPurchase": "Life Insurance",
+    "suggest": "Personal Loan",
+    "pitch": "Loans can help with your family needs or emergencies."
+  },
+  {
+    "age": "36–50", "location": "Delhi", "pastPurchase": "Personal Loan",
+    "suggest": "Health Insurance",
+    "pitch": "Health insurance protects you from high hospital bills."
+  },
+  {
+    "age": "36–50", "location": "Delhi", "pastPurchase": "Health Insurance",
+    "suggest": "Retirement Plan",
+    "pitch": "Plan your retirement to enjoy life stress-free."
+  },
+
+  {
+    "age": "36–50", "location": "Bihar", "pastPurchase": "None",
+    "suggest": "Health Insurance",
+    "pitch": "Prepare for medical emergencies with health insurance."
+  },
+  {
+    "age": "36–50", "location": "Bihar", "pastPurchase": "Life Insurance",
+    "suggest": "Personal Loan",
+    "pitch": "Loans can support your financial needs."
+  },
+  {
+    "age": "36–50", "location": "Bihar", "pastPurchase": "Personal Loan",
+    "suggest": "Health Insurance",
+    "pitch": "Health insurance is crucial at this age."
+  },
+  {
+    "age": "36–50", "location": "Bihar", "pastPurchase": "Health Insurance",
+    "suggest": "Retirement Plan",
+    "pitch": "Secure your retirement with a smart plan."
+  },
+
+  {
+    "age": "36–50", "location": "Maharashtra", "pastPurchase": "None",
+    "suggest": "Health Insurance",
+    "pitch": "Stay protected with health insurance."
+  },
+  {
+    "age": "36–50", "location": "Maharashtra", "pastPurchase": "Life Insurance",
+    "suggest": "Personal Loan",
+    "pitch": "Loans can help manage personal or business needs."
+  },
+  {
+    "age": "36–50", "location": "Maharashtra", "pastPurchase": "Personal Loan",
+    "suggest": "Health Insurance",
+    "pitch": "Cover your health risks with insurance."
+  },
+  {
+    "age": "36–50", "location": "Maharashtra", "pastPurchase": "Health Insurance",
+    "suggest": "Retirement Plan",
+    "pitch": "Build a retirement corpus to enjoy life later."
+  },
+
+  {
+    "age": "36–50", "location": "Others", "pastPurchase": "None",
+    "suggest": "Health Insurance",
+    "pitch": "Health insurance is essential for unforeseen medical costs."
+  },
+  {
+    "age": "36–50", "location": "Others", "pastPurchase": "Life Insurance",
+    "suggest": "Personal Loan",
+    "pitch": "Loans can help fund your family or business."
+  },
+  {
+    "age": "36–50", "location": "Others", "pastPurchase": "Personal Loan",
+    "suggest": "Health Insurance",
+    "pitch": "Secure your health against expensive treatments."
+  },
+  {
+    "age": "36–50", "location": "Others", "pastPurchase": "Health Insurance",
+    "suggest": "Retirement Plan",
+    "pitch": "Plan for retirement and live stress-free."
+  },
+
+  {
+    "age": "51+", "location": "Delhi", "pastPurchase": "None",
+    "suggest": "Retirement Plan",
+    "pitch": "It's never too late — start your retirement planning."
+  },
+  {
+    "age": "51+", "location": "Delhi", "pastPurchase": "Life Insurance",
+    "suggest": "Health Insurance",
+    "pitch": "Health protection is vital at this age."
+  },
+  {
+    "age": "51+", "location": "Delhi", "pastPurchase": "Personal Loan",
+    "suggest": "Retirement Plan",
+    "pitch": "Secure your future with a solid retirement plan."
+  },
+  {
+    "age": "51+", "location": "Delhi", "pastPurchase": "Health Insurance",
+    "suggest": "Retirement Plan",
+    "pitch": "Maximize returns on retirement investments."
+  },
+
+  {
+    "age": "51+", "location": "Bihar", "pastPurchase": "None",
+    "suggest": "Retirement Plan",
+    "pitch": "Plan your retirement for a peaceful life."
+  },
+  {
+    "age": "51+", "location": "Bihar", "pastPurchase": "Life Insurance",
+    "suggest": "Health Insurance",
+    "pitch": "Health insurance protects you from medical costs."
+  },
+  {
+    "age": "51+", "location": "Bihar", "pastPurchase": "Personal Loan",
+    "suggest": "Retirement Plan",
+    "pitch": "Build a retirement fund to enjoy your golden years."
+  },
+  {
+    "age": "51+", "location": "Bihar", "pastPurchase": "Health Insurance",
+    "suggest": "Retirement Plan",
+    "pitch": "Secure your finances with a retirement plan."
+  },
+
+  {
+    "age": "51+", "location": "Maharashtra", "pastPurchase": "None",
+    "suggest": "Retirement Plan",
+    "pitch": "Start retirement planning for a stress-free life."
+  },
+  {
+    "age": "51+", "location": "Maharashtra", "pastPurchase": "Life Insurance",
+    "suggest": "Health Insurance",
+    "pitch": "Protect yourself with comprehensive health coverage."
+  },
+  {
+    "age": "51+", "location": "Maharashtra", "pastPurchase": "Personal Loan",
+    "suggest": "Retirement Plan",
+    "pitch": "Retirement plans offer guaranteed returns."
+  },
+  {
+    "age": "51+", "location": "Maharashtra", "pastPurchase": "Health Insurance",
+    "suggest": "Retirement Plan",
+    "pitch": "Plan your retirement for financial security."
+  },
+
+  {
+    "age": "51+", "location": "Others", "pastPurchase": "None",
+    "suggest": "Retirement Plan",
+    "pitch": "Secure your future with retirement planning."
+  },
+  {
+    "age": "51+", "location": "Others", "pastPurchase": "Life Insurance",
+    "suggest": "Health Insurance",
+    "pitch": "Health insurance is essential at this age."
+  },
+  {
+    "age": "51+", "location": "Others", "pastPurchase": "Personal Loan",
+    "suggest": "Retirement Plan",
+    "pitch": "Retirement plans offer financial peace."
+  },
+  {
+    "age": "51+", "location": "Others", "pastPurchase": "Health Insurance",
+    "suggest": "Retirement Plan",
+    "pitch": "Plan your retirement to enjoy later years fully."
+  }
+]

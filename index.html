@@ -1,0 +1,48 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <title>GroMo Partner Product Recommendation</title>
+  <link rel="stylesheet" href="style.css" />
+</head>
+<body class="dark-theme">
+  <div class="container">
+    <h1>GroMo Partner Product Recommendation</h1>
+    <form id="recForm">
+      <label for="age">Select Age Group:</label>
+      <select id="age" required>
+        <option value="">--Select Age--</option>
+        <option value="18–25">18–25</option>
+        <option value="26–35">26–35</option>
+        <option value="36–50">36–50</option>
+        <option value="51+">51+</option>
+      </select>
+
+      <label for="location">Select Location:</label>
+      <select id="location" required>
+        <option value="">--Select Location--</option>
+        <option value="Delhi">Delhi</option>
+        <option value="Bihar">Bihar</option>
+        <option value="Maharashtra">Maharashtra</option>
+        <option value="Others">Others</option>
+      </select>
+
+      <label for="pastPurchase">Past Purchase:</label>
+      <select id="pastPurchase" required>
+        <option value="">--Select Past Purchase--</option>
+        <option value="None">None</option>
+        <option value="Life Insurance">Life Insurance</option>
+        <option value="Personal Loan">Personal Loan</option>
+        <option value="Health Insurance">Health Insurance</option>
+      </select>
+
+      <button type="submit">Get Recommendation</button>
+    </form>
+
+    <div id="result" class="result"></div>
+  </div>
+
+  <script src="script.js"></script>
+</body>
+</html>
